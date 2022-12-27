@@ -1,2 +1,11 @@
-
-/* Your CSS Code here. */
+    /* Your CSS Code here. */
+    
+    body {
+        background-color: aliceblue;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+    
+    h2 {
+        cursor: pointer;
+        color: black;
+    }
